@@ -1,6 +1,6 @@
 @media (min-width:768px) {
 body {
-background: url('https://i.postimg.cc/tTKC5MJ0/Sunand_Moon.jpg') center center fixed !important;
+background: url('https://i.postimg.cc/pTx03DTb/Untitled-design.gif') center center fixed !important;
 background-repeat: no-repeat;
 background-size: 100%;
 }
@@ -8,7 +8,7 @@ background-size: 100%;
 
 @media (max-width: 768px) {
 body {
-background: url('https://i.postimg.cc/tTKC5MJ0/Sunand_Moon.jpg') center center fixed !important;
+background: url('https://i.postimg.cc/pTx03DTb/Untitled-design.gif') center center fixed !important;
 background-repeat: no-repeat;
 background-size: 100%;
 width: auto !important;
