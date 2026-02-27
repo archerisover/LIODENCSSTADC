@@ -1,4 +1,4 @@
-//background
+
 @media (min-width:768px) {
 body {
 background: url('https://imgur.com/a/IP7ipS9') center center fixed !important;
