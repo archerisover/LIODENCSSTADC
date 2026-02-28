@@ -1,6 +1,6 @@
 .navbar {
 background: #fce995 !important;
-border: 1px solid #91AFC2 !important;
+border: none !important;
 border-bottom: none !important;
 border-top: none !important;
 border-right: none !important;
@@ -9,9 +9,9 @@ font-family: 'Copperplate';
 }
 
 .navbar li a {
-color: #FFFFFF !important;
+color: #0467b8 !important;
 }
 
 .navbar li a:hover {
-background: #0F2F42 !important;
+background: #fac157 !important;
 }
