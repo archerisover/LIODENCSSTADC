@@ -1,0 +1,17 @@
+.navbar {
+background: #fce995 !important;
+border: 1px solid #91AFC2 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Copperplate';
+}
+
+.navbar li a {
+color: #FFFFFF !important;
+}
+
+.navbar li a:hover {
+background: #0F2F42 !important;
+}
