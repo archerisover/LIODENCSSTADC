@@ -1,13 +1,14 @@
 .col-md-9.col-xs-12 {
-background: #1a1c79d6 !important;
-border: 0px double #fffab3 !important;
+background: #330078db !important;
+border: 4px double #fffab3 !important;
 border-top: none !important;
 border-right: none !important;
 border-bottom :none !important;
 }
 
+
 div.container.main {
-background: #1a1c79d6 !important;
-border: 0px double #fffab3 !important;
+background: #330078db !important;
+border: 4px double #fffab3 !important;
 border-left: none !important;
 }
